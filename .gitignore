@@ -1,0 +1,34 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+application.properties
+application.yml
+
+# Uploaded files
+/uploads/
+
+# Ignore generated files
+*.class
+*.jar
+*.war
+*.ear
